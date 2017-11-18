@@ -6,6 +6,8 @@ Merino N., J. Le Sommer, G. Durand, H. Goose, G. Madec, P. Mathiot and N. C. Jou
 
 * Personal customizations (MY\_SRC): see Merino et al. (2016) and Mathiot et al. (2017).
 
+* Configuration name: ORCA025.L75.
+
 * Produced by Nacho Merino (IGE, Grenoble, France) on ada (IDRIS) in 2015-2016.
 
 * Original simulation names: 
