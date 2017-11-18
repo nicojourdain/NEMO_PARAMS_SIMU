@@ -17,4 +17,4 @@ Merino N., J. Le Sommer, G. Durand, H. Goose, G. Madec, P. Mathiot and N. C. Jou
 
 * See ocean and sea-ice model parameters in files: CPP.keys, namelist.ORCA025.L75-GNM029, and namelist\_ice.
 
-* Output and forcing files available on request to <mailto:nicolas.jourdain@univ-grenoble-alpes.fr> 
+* Output and forcing files available on request to <nicolas.jourdain@univ-grenoble-alpes.fr> 
