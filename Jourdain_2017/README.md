@@ -35,4 +35,4 @@ Jourdain, N. C., Mathiot, P., Merino, N., Durand, G., Le Sommer, J., Dutrieux, P
    - namelist\_ice\_nemo\_GENERIC\_AMU12y (for Cd=0.001 and St=0.007)
    - namelist\_nemo\_GENERIC\_AMU12y
 
-* Output and forcing files available on request to <mailto:nicolas.jourdain@univ-grenoble-alpes.fr> 
+* Output and forcing files available on request to <nicolas.jourdain@univ-grenoble-alpes.fr> 
