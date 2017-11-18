@@ -1,0 +1,27 @@
+#This is an example of CPP.keys file (which describes the CPP keys for your configuration).
+# The syntax is quite free, line starting with # are comments and not taken into account
+# P_P, '=' and all '\' are not necessary (they are skipped in the process of building cpp.fcm file).
+# This actual example shows a copy of the former P_P lines in BB_make.ldef. 
+# cpp2fcm.ksh  will be used in makefile in order to fit the fcm syntax. You can make a try of this
+# command (no arguments) in the current dir : it will display what would be cpp.fcm 
+P_P = key_orca_r025=75
+      key_dynspg_flt \
+      key_zdftke  \
+      key_traldf_c2d \
+      key_dynldf_c2d \
+      key_ldfslp  \
+      key_mpp_mpi  \
+      key_lim2  \
+      key_trabbl \
+      key_zdftmx \
+      key_iomput
+
+#    key_dimgout \
+#      key_dynbbl_adv \
+#    key_top \
+#    key_cfc \
+#    key_trc_diaadd \
+#    key_trcbbl_dif \
+#    key_trcbbl_adv
+
+need_coord
