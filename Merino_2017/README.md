@@ -4,7 +4,7 @@ Merino N., J. Le Sommer, G. Durand, H. Goose, G. Madec, P. Mathiot and N. C. Jou
 
 * NEMO-3.5 with standard DRAKKAR customizations.
 
-* Personal customizations (MY\_SRC): see Merino et al. (2016) and Mathiot et al. (2017).
+* Personal customizations (in MY\_SRC): see description in Merino et al. (2016) and Mathiot et al. (2017).
 
 * Configuration name: ORCA025.L75.
 
