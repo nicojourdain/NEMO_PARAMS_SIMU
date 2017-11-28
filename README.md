@@ -6,4 +6,4 @@
 
 # Preserved repositories and associated DOI (Zenodo)
 
-[![DOI](https://zenodo.org/badge/111217517.svg)](https://zenodo.org/badge/latestdoi/111217517) 
+[![DOI](https://zenodo.org/badge/111217517.svg)](https://zenodo.org/badge/latestdoi/111217517) http://doi.org/10.5281/zenodo.1067648 
