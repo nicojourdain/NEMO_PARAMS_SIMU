@@ -8,4 +8,10 @@
 
 # Preserved repositories and associated DOI (Zenodo)
 
+Latest :
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1402523.svg)](https://doi.org/10.5281/zenodo.1402523) http://doi.org/10.5281/zenodo.1067647
+
+Previous :
+
 [![DOI](https://zenodo.org/badge/111217517.svg)](https://zenodo.org/badge/latestdoi/111217517) http://doi.org/10.5281/zenodo.1067648 
