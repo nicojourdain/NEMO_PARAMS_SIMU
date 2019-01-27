@@ -1,6 +1,6 @@
 ## Jourdain et al. (2018)
 
-Jourdain, N. C., Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2018). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling (under revision)_.
+Jourdain, N. C., Molines, J.-M., Le Sommer, J., Mathiot, P., Chanut, J., de Lavergne, C. and Madec, G. (2018). Simulating or prescribing the influence of tides on the Amundsen Sea ice shelves. _Ocean Modelling_, 133, 44-55. [doi/10.1016/j.ocemod.2018.11.001](https://doi.org/10.1016/j.ocemod.2018.11.001)
 
 * NEMO-3.6 : dev\_r5151\_UKMO\_ISF branch at revision 5932 
 

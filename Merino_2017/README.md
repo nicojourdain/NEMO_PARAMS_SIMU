@@ -1,6 +1,6 @@
-## Merino et al. (2017)
+## Merino et al. (2018)
 
-Merino N., J. Le Sommer, G. Durand, H. Goose, G. Madec, P. Mathiot and N. C. Jourdain. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Submitted to Ocean Modelling_.
+Merino N., J. Le Sommer, G. Durand, H. Goose, G. Madec, P. Mathiot and N. C. Jourdain. Impact of increasing Antarctic glacial freshwater release on regional sea-ice cover in the Southern Ocean. _Ocean Modelling_, 121, 76-89. [doi:10.1016/j.ocemod.2017.11.009](https://doi.org/10.1016/j.ocemod.2017.11.009)
 
 * NEMO-3.5 with standard DRAKKAR customizations.
 
