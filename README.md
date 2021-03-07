@@ -6,7 +6,9 @@
 
 * [Jourdain et al. (2018)](https://doi.org/10.1016/j.ocemod.2018.11.001) :  NEMO3.6, AMU12.L75
 
-* Favier et al. (2019) : NEMO3.6, MISOMIP
+* [Favier et al. (2019)](https://doi.org/10.5194/gmd-12-2255-2019) : NEMO3.6, MISOMIP
+
+* Planchat et al. (2021) : NEMO3.6, AMUXL12.l75
 
 # Preserved repositories and associated DOI (Zenodo)
 
