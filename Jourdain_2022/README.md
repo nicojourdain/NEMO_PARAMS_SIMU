@@ -2,7 +2,7 @@
 
 Paper submitted to GRL
 
-* NEMO-3.6 : dev\_r5151\_UKMO\_ISF branch at revision 5932 (see saved fortran files in ../Planchat\_2022/WORK)
+* NEMO-3.6 : dev\_r5151\_UKMO\_ISF branch at revision 5932 (see fortran files saved in ../Planchat\_2022/WORK)
 
 * Very few personal customizations (see ../Planchat\_2022/MY\_SRC).
 
