@@ -8,7 +8,9 @@
 
 * [Favier et al. (2019)](https://doi.org/10.5194/gmd-12-2255-2019) : NEMO3.6, MISOMIP
 
-* Planchat et al. (2021) : NEMO3.6, AMUXL12.l75
+* Jourdain et al. (2022) : NEMO3.6, AMUXL12.L75
+
+* Planchat et al. (2022) : NEMO3.6, AMUXL12.L75
 
 # Preserved repositories and associated DOI (Zenodo)
 
