@@ -16,9 +16,10 @@
 
 Latest :
 
-[![DOI](https://zenodo.org/badge/111217517.svg)](https://zenodo.org/badge/latestdoi/111217517) https://doi.org/10.5281/zenodo.2562731
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6644859.svg)](https://doi.org/10.5281/zenodo.6644859) https://doi.org/10.5281/zenodo.6644859
 
 Previous :
 
+https://doi.org/10.5281/zenodo.5521569
 http://doi.org/10.5281/zenodo.1067647
 http://doi.org/10.5281/zenodo.1067648 
